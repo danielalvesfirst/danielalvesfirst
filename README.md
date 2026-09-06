@@ -37,3 +37,6 @@ conhecimentos em prática.
 </div>
 
 ---
+<p align="center">
+  <img align="center" src="./assets/giphy.gif" alt="Imagem" width="400">
+</p>
