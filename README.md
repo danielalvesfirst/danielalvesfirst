@@ -1,42 +1,58 @@
-<p align="center">
-  <img align="center" src="./assets/GIF_PixelArt__to_Github (3).gif" alt="Imagem" width="400">
-</p>
 <div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <img src="./assets/GIF_PixelArt__to_Github (3).gif" alt="Image" width="180">
+    <img src="https://gitgarden-production.up.railway.app/api/sprite/3a1e20bc-eb29-49dd-b0fa-84e624f6eca1" alt="My GitGarden Sprite">
+  </div>
 
-# 👋 Olá, eu sou Daniel Alves!
-
-### 💻 Estudante de TI
-
-<p>
-
-</p>
-
+  <h1>👋 Hello, I'm Daniel Alves!</h1>
+  <h3>💻 IT Student</h3>
+  
+  <p>
+    Developer in training, focused on creating great web experiences and always looking for the next challenge. 🚀
+  </p>
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
+> [!NOTE]
+> 💻 Focused on programming and web development <br>
+> 🎓 Student at Universidade Católica de Brasília<br>
+> 🐧 Linux enthusiast <br>
+> 🎮 Passionate about games and technology <br>
+> 🧠 Always trying to learn something new 
 
-> 💻 Programação e desenvolvimento web  
-> 🐧 Linux  
-> 🎮 Gosto de jogos e tecnologia  
-> 🧠 Sempre tentando aprender alguma coisa nova
 
-Atualmente estou construindo minha base em programação, explorando
-diferentes tecnologias e criando pequenos projetos para colocar meus
-conhecimentos em prática.
+<br>
+<br>
 
----
+## 🚀 Technologies and tools
 
-## 🚀 Tecnologias e ferramentas
+<br>
+<br>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,c,linux,vscode,git,github,mysql,figma" />
 
 </div>
+<br>
 
----
+## 📬 How to reach me
+
+<br>
+<br>
+
+<div align="center">
+  
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</div>
+
+<br>
+<br>
+
 <p align="center">
-  <img align="center" src="./assets/giphy.gif" alt="Imagem" width="400">
+  <img align="center" src="./assets/giphy.gif" alt="Image" width="100%">
 </p>
