@@ -82,5 +82,5 @@ https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-
 </p>
 
 <p align="left">
-  <img align="center" src="./assets/GIF_PixelArt__to_Github (1).gif" alt="Imagem">
+  <img align="center" src="./assets/GIF_PixelArt__to_Github (3).gif" alt="Imagem">
 </p>
