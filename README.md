@@ -1,9 +1,10 @@
 <div align="center">
 
   <img align="left" width="15%" src="./assets/GIF_PixelArt__to_Github (3).gif" alt="Pixel Art GIF"><br><br><br><br>
+  <img align="left" width="100%" src="./assets/axolote.gif" alt="Pixel Art GIF"><br><br><br><br>
 
   <h1>👋 Hello, I'm Daniel Alves!</h1>
-  <h3>💻 IT Student</h3>
+  <h3>💻 IT Student</h3> 
 
   <img src="https://gitgarden-production.up.railway.app/api/sprite/3a1e20bc-eb29-49dd-b0fa-84e624f6eca1"  alt="My GitGarden Sprite">
 
