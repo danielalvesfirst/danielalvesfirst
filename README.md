@@ -1,7 +1,7 @@
 <div align="center">
 
   <img align="left" width="15%" src="./assets/GIF_PixelArt__to_Github (3).gif" alt="Pixel Art GIF">
-  <img align="right" width="15%" src="./assets/axolote.gif" alt="Pixel Art GIF"><br><br><br><br>
+  <img align="right" width="15%" src="./assets/axolote1.gif" alt="Pixel Art GIF"><br><br><br><br>
 
   <h1>👋 Hello, I'm Daniel Alves!</h1>
   <h3>💻 IT Student</h3> 
